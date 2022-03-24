@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Books/MAD/Dashboard/app/src/main/res/drawable/dynamicrvback.xml" value="0.18796296296296297" />
+        <entry key="..\:/Books/MAD/Dashboard/app/src/main/res/drawable/dynamicrvprogress.xml" value="0.18796296296296297" />
+        <entry key="..\:/Books/MAD/Dashboard/app/src/main/res/drawable/recycleback.xml" value="0.18796296296296297" />
+        <entry key="..\:/Books/MAD/Dashboard/app/src/main/res/drawable/staticrcselected.xml" value="0.18796296296296297" />
+        <entry key="..\:/Books/MAD/Dashboard/app/src/main/res/drawable/textshape.xml" value="0.18796296296296297" />
+        <entry key="..\:/Books/MAD/Dashboard/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Books/MAD/Dashboard/app/src/main/res/layout/dynamic_rv_item_layout.xml" value="0.12228260869565218" />
+        <entry key="..\:/Books/MAD/Dashboard/app/src/main/res/layout/dynamic_rv_progress.xml" value="0.12228260869565218" />
+        <entry key="..\:/Books/MAD/Dashboard/app/src/main/res/layout/staticrvbackground.xml" value="0.18" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
